@@ -1,4 +1,2 @@
 # Python-group-3
-
-Whatever you like.
-
+This is the first line
